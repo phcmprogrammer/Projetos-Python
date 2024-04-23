@@ -1,3 +1,4 @@
+#Questão 1(escolhida), mas vou refazer com a questão 3
 from flask import Flask, request, jsonify
 from werkzeug.security import generate_password_hash, check_password_hash
 
